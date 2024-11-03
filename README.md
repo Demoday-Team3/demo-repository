@@ -32,9 +32,6 @@
  
 ## 기술 스택
 
-# 기술 스택
-
-| 기술 스택   | 로고                                                        |
 |--------------|-----------------------------------------------------------|
 | Node.js      | <img src="https://nodejs.org/static/images/logo.svg" width="50" />     |
 | Express.js   | <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="50" /> |
