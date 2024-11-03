@@ -41,4 +41,4 @@
 
 # 메인 페이지
 
-![그룹](https://postimg.cc/rd3mygmJ)
+![그룹][2024-08-22-225517.png](https://postimg.cc/rd3mygmJ)
