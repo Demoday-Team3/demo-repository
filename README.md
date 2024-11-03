@@ -1,7 +1,9 @@
 # 기억 저장 및 공유 서비스
+---
 24-여름방학에 진행한 토이 프로젝트입니다. 
 
 ## 기능🌟
+---
 
 ### 그룹 👥
 
@@ -31,9 +33,12 @@
   - 🌟 **개별 추억 공감 1만 개 달성**
  
 ## 기술 스택
+---
 
-Node.js      | <img src="https://nodejs.org/static/images/logo.svg" width="50" />
-Express.js   | <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="50" />
-MySQL        | <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width="50" />
-JavaScript   | <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50" />
-React        | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" />
+|                |                                                        |
+|----------------|--------------------------------------------------------|
+| Node.js        | <img src="https://nodejs.org/static/images/logo.svg" width="50" />     |
+| Express.js     | <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="50" /> |
+| MySQL          | <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width="50" /> |
+| JavaScript     | <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50" /> |
+| React          | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" /> |
