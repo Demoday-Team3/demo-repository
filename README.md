@@ -32,10 +32,8 @@
  
 ## 기술 스택
 
-| 기술 스택   | 로고                                                        | 설명                                       |
-|--------------|-----------------------------------------------------------|-------------------------------------------|
-| Node.js      | ![Node.js](https://nodejs.org/static/images/logo.svg)     | 서버 측에서 사용되는 JavaScript 런타임 환경 |
-| Express.js   | ![Express.js](https://expressjs.com/images/express-facebook-share.png) | Node.js를 위한 경량 웹 애플리케이션 프레임워크 |
-| MySQL        | ![MySQL](https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png) | 데이터베이스 관리 시스템                  |
-| JavaScript   | ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png) | 프론트엔드 및 백엔드에서 사용되는 프로그래밍 언어 |
-| React        | ![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg) | 사용자 인터페이스를 생성하기 위한 JavaScript 라이브러리 |
+- ![Node.js](https://nodejs.org/static/images/logo.svg)
+- ![Express.js](https://expressjs.com/images/express-facebook-share.png)
+- ![MySQL](https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png)
+- ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
+- ![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)L        | ![MySQL](https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png) |        
