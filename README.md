@@ -32,8 +32,14 @@
  
 ## 기술 스택
 
-| Node.js      | <img src="https://nodejs.org/static/images/logo.svg" width="50" />     |
-| Express.js   | <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="50" /> |
-| MySQL        | <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width="50" /> |
-| JavaScript   | <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50" /> |
-| React        | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" /> |
+- Node.js
+- Express.js
+- MySQL
+- JavaScript
+- React
+
+<img src="https://nodejs.org/static/images/logo.svg" width="50" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="50" />
+<img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width="50" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" />
