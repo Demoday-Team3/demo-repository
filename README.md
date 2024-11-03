@@ -38,3 +38,7 @@
 | MySQL          | <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width="50" /> |
 | JavaScript     | <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50" /> |
 | React          | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" /> |
+
+# 메인 페이지
+
+![그룹](file:///D:/대학/2024-2/동아리/코드잇/코드잇%20연합플젝/스크린샷%202024-08-22%20225517.png)
