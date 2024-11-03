@@ -32,8 +32,10 @@
  
 ## 기술 스택
 
-- ![Node.js](https://nodejs.org/static/images/logo.svg)
-- ![Express.js](https://expressjs.com/images/express-facebook-share.png)
-- ![MySQL](https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png)
-- ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
-- ![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)L        | ![MySQL](https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png) |        
+| 기술 스택   | 로고                                                        |
+|--------------|-----------------------------------------------------------|
+| Node.js      | <img src="https://nodejs.org/static/images/logo.svg" width="50" />     |
+| Express.js   | <img src="https://expressjs.com/images/express-facebook-share.png" width="50" /> |
+| MySQL        | <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width="50" /> |
+| JavaScript   | <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50" /> |
+| React        | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" /> |
