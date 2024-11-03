@@ -40,5 +40,4 @@
 | React          | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" /> |
 
 # 메인 페이지(그룹)
-
-![2024-08-22-225517](https://postimg.cc/rd3mygmJ)
+[![2024-08-22-225517.png](https://i.postimg.cc/xCTbR4VW/2024-08-22-225517.png)](https://postimg.cc/rd3mygmJ)
